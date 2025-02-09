@@ -55,13 +55,11 @@ int main() {
     
     // Calculate BMI for 5 persons . . . Using LOOP
     // input format : height weight
-
     // 1.5 50
     // 1.6 51
     // 1.7 55
     // 1.2 70
     // 1.3 60
-
     // output format : 
     // 22.2222
     // 19.9219
