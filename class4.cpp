@@ -20,7 +20,10 @@ int main() {
 
     
     
+    // Print Numbers from 1 to 100.
 
+    // Print Numbers from 100 to 1.
+    
     // Find the sum of the numbers from 1 to 100.
 
     // Find the sum of the cubes of numbers from 1 to 100.
@@ -31,8 +34,23 @@ int main() {
 
     // Find the sum of the numbers from 1 to 100 that are not divisible by 5 and 7.
 
+    // Print the Collatz sequence for a given number n:
+    //     if n is even -> n = n / 2
+    //     if n is odd -> n = 3 * n + 1
+    // Repeat this until n = 1.
+    // input format : n = 3
+    // output format : 3 10 5 16 8 4 2 1
 
+    // Print Fibonacci series upto 100.
 
+    // Print this Right Triangle
+    // *
+    // * *
+    // * * *
+    // * * * * 
+    // * * * * * 
+    // * * * * * * 
+    // * * * * * * *
 
     
     // Calculate BMI for 5 persons . . . Using LOOP
