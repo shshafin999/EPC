@@ -36,7 +36,7 @@ int main() {
 
     //8. Find the sum of the following sequence.
     //   1 + 1/2 + 1/3 + .... + 1/n
-    //   intput : given a number n
+    //   input : given a number n
     //   output : sum
 
     //9. Print the Collatz sequence for a given number n:
