@@ -3,15 +3,17 @@ using namespace std;
 
 int main() {
 
-
-    int count = 5;
-    while (count > 0)
+    // while loop
+    int count = 0;
+    while (count < 5)
     {
         cout << "Hello world" << endl;
-        count = count - 1;
+        count = count + 1;
     }
 
-
+    
+    // for loop
+    // for (counter variable initialization ; condition ; counter increment/decrement)
     for (int count = 0; count < 5; count = count + 1) {
         cout << "Hello world" << endl;
     }
@@ -31,7 +33,9 @@ int main() {
 
 
 
-    // Calculate BMI using LOOP for 5 persons . . .
+
+    
+    // Calculate BMI for 5 persons . . . Using LOOP
     // input format : height weight
 
     // 1.5 50
